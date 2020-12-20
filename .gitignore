@@ -1,0 +1,5 @@
+.login-auth/
+.vscode/
+__pycache__/
+*/*.log
+
